@@ -1,0 +1,1 @@
+# Machine-Learning-model-for-Fault-Diagnosis-using-Support-Vector-Machine
